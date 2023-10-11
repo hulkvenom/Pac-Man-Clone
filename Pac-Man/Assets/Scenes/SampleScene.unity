@@ -310,6 +310,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &14097767
@@ -499,6 +500,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &19134137
@@ -721,6 +723,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &40058234
@@ -1028,6 +1031,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &58575963
@@ -1385,6 +1389,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &72471623
@@ -1528,6 +1533,7 @@ MonoBehaviour:
   isWarpLeftNode: 1
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &80283668
@@ -1678,6 +1684,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &83351119
@@ -1782,6 +1789,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &83529640
@@ -1971,6 +1979,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &89172622
@@ -2160,6 +2169,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &90985223
@@ -2265,6 +2275,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &97667054
@@ -2370,6 +2381,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &99952978
@@ -2475,6 +2487,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &113498518
@@ -2748,6 +2761,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &120524749
@@ -2853,6 +2867,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &121230951
@@ -2958,6 +2973,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &126083599
@@ -3349,6 +3365,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &143147899
@@ -3622,6 +3639,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &145327450
@@ -4013,6 +4031,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &167022247
@@ -4202,6 +4221,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &171257195
@@ -4391,6 +4411,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &178445790
@@ -4496,6 +4517,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &178892402
@@ -5005,6 +5027,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &191817409
@@ -5278,6 +5301,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &204406056
@@ -5585,6 +5609,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &218362971
@@ -5774,6 +5799,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &232198396
@@ -5879,6 +5905,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &246825282
@@ -6126,6 +6153,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &253974476
@@ -6231,6 +6259,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &258689846
@@ -6336,6 +6365,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &263173441
@@ -6441,6 +6471,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &276407751
@@ -6546,6 +6577,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &276893661
@@ -6735,6 +6767,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &283321671
@@ -6924,6 +6957,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &286344982
@@ -7197,6 +7231,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &299600032
@@ -7302,6 +7337,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &301768035
@@ -7407,6 +7443,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &304333257
@@ -7512,6 +7549,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &307477511
@@ -7617,6 +7655,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &308145338
@@ -7722,6 +7761,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &309054607
@@ -7911,6 +7951,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &310525993
@@ -8016,6 +8057,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &311090919
@@ -8121,6 +8163,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &315510271
@@ -8226,6 +8269,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &318386639
@@ -8331,6 +8375,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &321862708
@@ -8604,6 +8649,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &328709393
@@ -8793,6 +8839,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &328922387
@@ -8898,6 +8945,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &329362848
@@ -9003,6 +9051,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &329829928
@@ -9108,6 +9157,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &330226657
@@ -9213,6 +9263,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &336118730
@@ -9486,6 +9537,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &343650677
@@ -9675,6 +9727,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &348218114
@@ -9864,6 +9917,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &355623181
@@ -9969,6 +10023,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &358456972
@@ -10074,6 +10129,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &360357031
@@ -10179,6 +10235,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &364517116
@@ -10284,6 +10341,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &371589360
@@ -10876,6 +10934,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &391522162
@@ -11233,6 +11292,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &395115198
@@ -11338,6 +11398,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &403387570
@@ -11561,6 +11622,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &406342393
@@ -11763,6 +11825,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36e8f00735a52094d9519fd32851eeff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pacman: {fileID: 1795569411}
   leftWarpNode: {fileID: 80283665}
   rightWarpNode: {fileID: 1478519861}
   siren: {fileID: 412261376}
@@ -11771,6 +11834,10 @@ MonoBehaviour:
   currentMunch: 0
   score: 0
   scoreText: {fileID: 954486378}
+  ghostNodeLeft: {fileID: 1683762852}
+  ghostNodeRight: {fileID: 1605812244}
+  ghostNodeCenter: {fileID: 1901195889}
+  ghostNodeStart: {fileID: 1343312279}
 --- !u!4 &412261375
 Transform:
   m_ObjectHideFlags: 0
@@ -12177,6 +12244,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &417940150
@@ -12366,6 +12434,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &419524242
@@ -12471,6 +12540,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &423656783
@@ -12660,6 +12730,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &427532703
@@ -12765,6 +12836,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &436682899
@@ -13324,6 +13396,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &467493175
@@ -13513,6 +13586,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &482611881
@@ -13908,6 +13982,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &496823917
@@ -14013,6 +14088,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &501972297
@@ -14202,6 +14278,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &508798939
@@ -14307,6 +14384,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &511580572
@@ -14412,6 +14490,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &519420028
@@ -14990,6 +15069,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &526657741
@@ -15095,6 +15175,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &528873050
@@ -15233,6 +15314,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &535632367
@@ -15758,6 +15840,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &540598174
@@ -15863,6 +15946,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &542555425
@@ -16421,6 +16505,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &569182085
@@ -16526,6 +16611,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &577865529
@@ -16631,6 +16717,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &584032515
@@ -16938,6 +17025,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &588200741
@@ -17127,6 +17215,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &595758456
@@ -17232,6 +17321,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &598833773
@@ -17421,6 +17511,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &603999610
@@ -17610,6 +17701,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &609895409
@@ -17715,6 +17807,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &614457558
@@ -17820,6 +17913,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &617766066
@@ -17925,6 +18019,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &619942098
@@ -18030,6 +18125,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &620824756
@@ -18219,6 +18315,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &623589135
@@ -18614,6 +18711,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &629424318
@@ -18719,6 +18817,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &631913976
@@ -19446,6 +19545,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &656963133
@@ -19803,6 +19903,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &680610675
@@ -19908,6 +20009,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &681964707
@@ -20013,6 +20115,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &683980904
@@ -20117,6 +20220,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &685876844
@@ -20221,6 +20325,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &686624353
@@ -20410,6 +20515,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &692057379
@@ -20599,6 +20705,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &692752491
@@ -20788,6 +20895,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &695380986
@@ -20893,6 +21001,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &698943390
@@ -20998,6 +21107,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &704133113
@@ -21187,6 +21297,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &706008035
@@ -21460,6 +21571,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &712545530
@@ -21801,6 +21913,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &719318647
@@ -22074,6 +22187,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &732435274
@@ -22179,6 +22293,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &733418735
@@ -22521,6 +22636,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &753854952
@@ -22626,6 +22742,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &754968923
@@ -22731,6 +22848,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &757187437
@@ -23088,6 +23206,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &767483454
@@ -23277,6 +23396,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &778453826
@@ -23466,6 +23586,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &783186284
@@ -23655,6 +23776,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &792329221
@@ -23844,6 +23966,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &795397097
@@ -24067,6 +24190,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &802287243
@@ -24255,6 +24379,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &809949392
@@ -24360,6 +24485,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &822271839
@@ -24465,6 +24591,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &822499084
@@ -24654,6 +24781,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &825703965
@@ -24927,6 +25055,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &849333285
@@ -25032,6 +25161,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &855880451
@@ -25305,6 +25435,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &866459519
@@ -25410,6 +25541,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &867191989
@@ -25515,6 +25647,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &868949320
@@ -25704,6 +25837,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &874415770
@@ -25809,6 +25943,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &878041249
@@ -25914,6 +26049,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &878416299
@@ -26186,6 +26322,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &886043226
@@ -26291,6 +26428,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &889246353
@@ -26395,6 +26533,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &890858583
@@ -26668,6 +26807,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &902965841
@@ -26773,6 +26913,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &916559747
@@ -26878,6 +27019,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &918392757
@@ -27067,6 +27209,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &924891796
@@ -27172,6 +27315,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &933188430
@@ -27899,6 +28043,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &953323011
@@ -28335,6 +28480,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &984360466
@@ -28978,6 +29124,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1000361469
@@ -29083,6 +29230,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1002307091
@@ -29356,6 +29504,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1008387001
@@ -29461,6 +29610,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1009253875
@@ -30154,6 +30304,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1022730147
@@ -30259,6 +30410,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1024660031
@@ -30448,6 +30600,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1028596024
@@ -30637,6 +30790,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1033672211
@@ -30910,6 +31064,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1044675670
@@ -31183,6 +31338,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1061184259
@@ -31372,6 +31528,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1061985109
@@ -31561,6 +31718,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1065498467
@@ -31666,6 +31824,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1067445658
@@ -31939,6 +32098,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1072742429
@@ -32162,6 +32322,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1076048461
@@ -32267,6 +32428,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1076980143
@@ -32371,6 +32533,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1085281987
@@ -32762,6 +32925,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1095739804
@@ -32951,6 +33115,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1096622091
@@ -33140,6 +33305,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1108061977
@@ -33413,6 +33579,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1112639201
@@ -33838,6 +34005,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1134528890
@@ -33943,6 +34111,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1137744340
@@ -34048,6 +34217,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1141325413
@@ -34405,6 +34575,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1144623618
@@ -34696,6 +34867,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1149451082
@@ -34801,6 +34973,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1158921094
@@ -34989,6 +35162,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1160688869
@@ -35211,6 +35385,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1170096161
@@ -35316,6 +35491,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1171960343
@@ -35841,6 +36017,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1203599397
@@ -35946,6 +36123,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1203768331
@@ -36051,6 +36229,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1205765312
@@ -36643,6 +36822,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1214960887
@@ -36781,6 +36961,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1224843011
@@ -36970,6 +37151,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1225865631
@@ -37159,6 +37341,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1229760264
@@ -37264,6 +37447,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1232719661
@@ -37369,6 +37553,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1233695341
@@ -37474,6 +37659,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1240961726
@@ -37831,6 +38017,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1244416198
@@ -38020,6 +38207,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1245428789
@@ -38377,6 +38565,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1263866328
@@ -38566,6 +38755,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1271543653
@@ -38653,7 +38843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
   currentNode: {fileID: 0}
-  speed: 0.3
+  speed: 1
   direction: 
   lastMovingDirection: 
   canWarp: 1
@@ -38671,7 +38861,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ghostNodeState: 0
-  ghostType: 3
+  respawnState: 0
+  ghostType: 0
   ghostNodeLeft: {fileID: 1683762852}
   ghostNodeRight: {fileID: 1605812244}
   ghostNodeCenter: {fileID: 1901195889}
@@ -38679,6 +38870,8 @@ MonoBehaviour:
   movementController: {fileID: 0}
   startingNode: {fileID: 0}
   readyToLeaveHome: 0
+  gameManager: {fileID: 0}
+  testRespawn: 0
 --- !u!4 &1271543657
 Transform:
   m_ObjectHideFlags: 0
@@ -38882,6 +39075,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1278768212
@@ -38987,6 +39181,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1282991924
@@ -39092,6 +39287,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1284190276
@@ -39365,6 +39561,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1291231617
@@ -39470,6 +39667,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1291399638
@@ -39659,6 +39857,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1296328345
@@ -39848,6 +40047,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1308962222
@@ -39953,6 +40153,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1312316646
@@ -40310,6 +40511,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1317928648
@@ -40499,6 +40701,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1321265431
@@ -40604,6 +40807,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1330522825
@@ -41129,6 +41333,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1338699108
@@ -41234,6 +41439,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1341619725
@@ -41339,6 +41545,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1343312279
@@ -41383,6 +41590,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 1
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1343312281
@@ -41751,6 +41959,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1354716264
@@ -41940,6 +42149,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1357024574
@@ -42381,6 +42591,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1388201810
@@ -42486,6 +42697,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1389931312
@@ -42591,6 +42803,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1393879749
@@ -42864,6 +43077,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1398326885
@@ -43221,6 +43435,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1403478449
@@ -43410,6 +43625,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1426510498
@@ -44088,6 +44304,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1466486416
@@ -44193,6 +44410,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1468016682
@@ -44298,6 +44516,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1472837666
@@ -44403,6 +44622,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1474214787
@@ -44508,6 +44728,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1478519861
@@ -44567,6 +44788,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1478519864
@@ -44835,6 +45057,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1502638170
@@ -44940,6 +45163,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1506360840
@@ -45315,6 +45539,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1519605765
@@ -45504,6 +45729,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1522757327
@@ -45563,6 +45789,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1522757330
@@ -46049,6 +46276,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1538713516
@@ -46154,6 +46382,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1548065381
@@ -46343,6 +46572,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1554028008
@@ -46448,6 +46678,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1558086799
@@ -46553,6 +46784,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1560706782
@@ -46742,6 +46974,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1577168713
@@ -47048,6 +47281,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1591804665
@@ -47153,6 +47387,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1600402687
@@ -47258,6 +47493,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1604245788
@@ -47402,6 +47638,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1605812247
@@ -47552,6 +47789,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1614386390
@@ -47657,6 +47895,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1615620170
@@ -47795,6 +48034,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1624305649
@@ -47984,6 +48224,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1632468498
@@ -48089,6 +48330,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1636340263
@@ -48446,6 +48688,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1651273447
@@ -48551,6 +48794,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1652271366
@@ -48656,6 +48900,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1652423980
@@ -48963,6 +49208,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1666972709
@@ -49354,6 +49600,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1677637167
@@ -49482,6 +49729,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1683762854
@@ -49732,6 +49980,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1688678502
@@ -49837,6 +50086,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1693463196
@@ -50026,6 +50276,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1699203478
@@ -50299,6 +50550,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1702291472
@@ -50404,6 +50656,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1703466513
@@ -50509,6 +50762,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1710539573
@@ -50866,6 +51120,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1723328961
@@ -50971,6 +51226,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1724450267
@@ -51076,6 +51332,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1726864868
@@ -51349,6 +51606,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1744156173
@@ -51453,6 +51711,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1744481507
@@ -51726,6 +51985,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1754276019
@@ -52033,6 +52293,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1778326545
@@ -52138,6 +52399,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1780018255
@@ -52361,6 +52623,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1783528534
@@ -52504,6 +52767,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1793674426
@@ -53047,6 +53311,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1803057190
@@ -53152,6 +53417,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1803505211
@@ -53425,6 +53691,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1812705555
@@ -53530,6 +53797,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1813434383
@@ -53635,6 +53903,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1816246916
@@ -54636,6 +54905,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1887417481
@@ -54741,6 +55011,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1887836780
@@ -55014,6 +55285,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1891028575
@@ -55203,6 +55475,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1893029446
@@ -55476,6 +55749,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1898607541
@@ -55604,6 +55878,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!61 &1901195891
@@ -55770,6 +56045,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1907657141
@@ -55875,6 +56151,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1909799344
@@ -55980,6 +56257,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1911893311
@@ -56169,6 +56447,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1916247522
@@ -56358,6 +56637,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1930560741
@@ -56463,6 +56743,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1935205437
@@ -56652,6 +56933,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1938622015
@@ -56925,6 +57207,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1941921264
@@ -57114,6 +57397,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1945433000
@@ -57219,6 +57503,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1945646777
@@ -57324,6 +57609,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1948330647
@@ -57429,6 +57715,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1949105105
@@ -57534,6 +57821,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1949356933
@@ -57639,6 +57927,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1952501973
@@ -57912,6 +58201,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1968885779
@@ -58017,6 +58307,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1969476262
@@ -58122,6 +58413,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1970077129
@@ -58226,6 +58518,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1975968398
@@ -58331,6 +58624,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1979353451
@@ -58436,6 +58730,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1983237886
@@ -58541,6 +58836,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &1984244080
@@ -58730,6 +59026,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2000186314
@@ -58835,6 +59132,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2002656220
@@ -58940,6 +59238,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2009375875
@@ -59213,6 +59512,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2017890615
@@ -59318,6 +59618,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2018839858
@@ -59759,6 +60060,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2024993927
@@ -59864,6 +60166,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2025583760
@@ -60423,6 +60726,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2049082757
@@ -60528,6 +60832,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2050978560
@@ -60633,6 +60938,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2057104249
@@ -60738,6 +61044,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2062060061
@@ -61011,6 +61318,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2073273244
@@ -61116,6 +61424,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2079493845
@@ -61389,6 +61698,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2087863390
@@ -61494,6 +61804,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2089442784
@@ -62087,6 +62398,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2115484504
@@ -62512,6 +62824,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2130663264
@@ -62701,6 +63014,7 @@ MonoBehaviour:
   isWarpLeftNode: 0
   isPelletNode: 0
   hasPellet: 0
+  isGhostStartingNode: 0
   pelletSprite: {fileID: 0}
   gameManager: {fileID: 0}
 --- !u!1 &2132417049
