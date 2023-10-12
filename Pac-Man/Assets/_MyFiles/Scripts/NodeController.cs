@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.XR;
 using UnityEngine;
 using UnityEngine.Rendering;
 
@@ -29,6 +30,8 @@ public class NodeController : MonoBehaviour
     public SpriteRenderer pelletSprite;
 
     public GameManager gameManager;
+
+    public bool isSideNode = false;
 
 
     // Start is called before the first frame update
